@@ -7,13 +7,13 @@ Implementación de un sistema Cliente-Servidor TCP en Python
 ## Instrucciones
 
 1. Ejecutar Servidor en la terminal (bash)
-
+```bash
 python3 servidor.py
-
+```
 2. Ejecutar Cliente
-
+```bash
 python3 cliente.py
-
+```
 
 ## Pruebas manuales con respuestas
 ```bash
