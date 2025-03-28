@@ -25,8 +25,6 @@ Escribe un mensaje (o DESCONEXION para salir): DESCONEXION
 Conexión cerrada.
 ```
 
-
-Conexión cerrada.
  
 
 
