@@ -16,11 +16,16 @@ python3 cliente.py
 
 
 ## Pruebas manuales con respuestas
-Escribe un mensaje (o DESCONEXION para salir): Hola
+```bash
+Escribe un mensaje (o DESCONEXION para salir): hola
 Respuesta del servidor: HOLA
 Escribe un mensaje (o DESCONEXION para salir): hola servidor
 Respuesta del servidor: HOLA CLIENTE
 Escribe un mensaje (o DESCONEXION para salir): DESCONEXION
+Conexión cerrada.
+```
+
+
 Conexión cerrada.
  
 
